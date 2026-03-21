@@ -1,0 +1,11 @@
+{
+  "6e81a15b1d2e0410": {
+    "assessment_id": "6e81a15b1d2e0410",
+    "user_id": "string",
+    "assessment_type": "phq9",
+    "score": 0,
+    "metadata": {},
+    "created_at": "2025-10-10T12:44:03.170478",
+    "interpretation": "Minimal depression"
+  }
+}

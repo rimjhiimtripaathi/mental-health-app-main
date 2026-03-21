@@ -1,0 +1,11 @@
+{
+  "abcd@gmail.com": {
+    "user_id": "6502081bf919ea75",
+    "email": "abcd@gmail.com",
+    "full_name": "Abc Tripathi",
+    "password_hash": "61d8dd69dc921cc095b8c96a1e41ef440fc02d0d07898b0de796ae4aa911b11f",
+    "salt": "0c2adbc8f0cd5ab9040fc3cb451609c3",
+    "created_at": "2025-10-10T11:16:59.655444",
+    "last_login": "2025-10-10T12:30:15.873738"
+  }
+}
